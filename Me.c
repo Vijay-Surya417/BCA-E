@@ -1,6 +1,6 @@
-#include <stdio.h>  // Incorporating the Standard I/O library to utilize input and output functions
-
+#include <stdio.h>  
 int main() 
 {   printf("Hello World");
+    printf("Welcome");
     return 0;
 }
